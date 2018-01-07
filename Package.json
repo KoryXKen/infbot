@@ -1,0 +1,22 @@
+{
+  "name": "infinitybot",
+  "version": "1.0.0",
+  "description": "Bot Created By Blue",
+  "main": "infinite.js",
+  "scripts": {
+    "test": "node infinite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryXKen/infbot.git"
+  },
+  "author": "Blue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KoryXKen/infbot/issues"
+  },
+  "homepage": "https://github.com/KoryXKen/infbot#readme",
+  "dependencies": {
+    "discord.io": "^2.5.3"
+  }
+}
